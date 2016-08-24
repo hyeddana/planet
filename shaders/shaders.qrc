@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>loading.frag</file>
+        <file>loading.vert</file>
+        <file>shader.frag</file>
+        <file>shader.vert</file>
+        <file>skybox.frag</file>
+        <file>skybox.vert</file>
+        <file>lighting.frag</file>
+        <file>lighting.vert</file>
+    </qresource>
+</RCC>

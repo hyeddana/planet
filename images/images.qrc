@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>front.png</file>
+        <file>back.png</file>
+        <file>top.png</file>
+	<file>space.png</file>
+	<file>ocean.jpg</file>
+	<file>moon_texture.jpg</file>
+	<file>deep_crevice.jpg</file>
+	<file>sand.jpg</file>
+	<file>grass.jpg</file>
+	<file>concrete.jpg</file>
+	<file>snow.jpg</file>
+        <file>loading.jpg</file>
+    </qresource>
+</RCC>
